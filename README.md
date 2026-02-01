@@ -1,4 +1,13 @@
-# TerminalTraj
+<h1 align="center">TerminalTraj</h1>
+
+<div align="center">
+🤗 <a href=""><b>Model</b></a>&nbsp&nbsp | &nbsp&nbsp
+🤗 <a href=""><b>Data</b></a>&nbsp&nbsp | &nbsp&nbsp
+🤗 <a href=""><b>HF&nbsp&nbspPaper</b></a>&nbsp&nbsp | &nbsp&nbsp
+📑 <a href=""><b>arXiv</b></a>&nbsp&nbsp
+</div>
+
+
 This is the repo for the paper **TerminalTraj: Large-Scale Terminal Agentic Trajectory Generation from Dockerized Environments**
 
 ## Brief
